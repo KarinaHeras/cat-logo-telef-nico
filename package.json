@@ -1,0 +1,19 @@
+{
+  "name": "cat-logo-telef-nico",
+  "version": "1.0.0",
+  "description": "catalogo echo en react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarinaHeras/cat-logo-telef-nico.git"
+  },
+  "author": "Karina Heras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarinaHeras/cat-logo-telef-nico/issues"
+  },
+  "homepage": "https://github.com/KarinaHeras/cat-logo-telef-nico#readme"
+}
